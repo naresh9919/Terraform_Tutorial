@@ -1,4 +1,4 @@
-# Local-exec command ( it is used store data to local system like ip address or any information)
+# Local-exec command ( it is used to store data in local system like ip address or any information)
 
 terraform {
   required_providers {
